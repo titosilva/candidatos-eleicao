@@ -1,0 +1,13 @@
+João Tito, 18/0123301
+
+Para executar o programa, use
+$./consulta_eleicao [ano] [sigla]
+O programa automaticamente gera o nome do arquivo e verifica dentro da pasta Arquivos a sua existencia
+
+Caso não exista o arquivo consulta_eleicao, e possivel usar
+$./Compila.sh
+Para gera-lo
+
+A pasta Arquivo_C contem o codigo fonte do programa
+O programa é bastante extenso, mas isso se deve ao seu funcionamento, baseado na repetição de blocos de codigo muito semelhantes
+A pasta Listas corresponde a arquivos gerados pelo programa para salvar informações
